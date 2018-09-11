@@ -1,1 +1,1 @@
-module github.com/buddhavs/module_test/v2
+module github.com/buddhavs/module_test/v3

@@ -4,5 +4,5 @@ import "fmt"
 
 //Run as running...
 func Run() {
-	fmt.Println("Running v2.0.1!")
+	fmt.Println("Running v3.0.1!")
 }
